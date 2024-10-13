@@ -1,0 +1,21 @@
+{
+    "name": "Formulário PWA",
+    "short_name": "Formulário",
+    "description": "Aplicação PWA para formulário de agendamento.",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#6c63ff",
+    "theme_color": "#6c63ff",
+    "icons": [
+      {
+        "src": "icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
